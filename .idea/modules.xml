@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Donation-Dive.iml" filepath="$PROJECT_DIR$/.idea/Donation-Dive.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dnation_final.iml" filepath="$PROJECT_DIR$/.idea/Dnation_final.iml" />
+>>>>>>> f792c52 (first commit)
     </modules>
   </component>
 </project>
